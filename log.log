@@ -1,0 +1,494 @@
+2020-03-15 10:55:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.156:3000
+2020-03-15 10:55:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.xicidaili.com:80
+2020-03-15 10:55:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.ip3366.net:80
+2020-03-15 10:55:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.kuaidaili.com:80
+2020-03-15 10:55:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:55:53 connectionpool.py [line:437] DEBUG: http://www.kuaidaili.com:80 "GET /free/inha/1 HTTP/1.1" 301 278
+2020-03-15 10:55:53 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): www.kuaidaili.com:443
+2020-03-15 10:55:53 connectionpool.py [line:437] DEBUG: http://www.xicidaili.com:80 "GET /nn/1 HTTP/1.1" 301 185
+2020-03-15 10:55:53 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): www.xicidaili.com:443
+2020-03-15 10:55:53 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index1.html HTTP/1.1" 200 None
+2020-03-15 10:55:53 connectionpool.py [line:437] DEBUG: https://www.kuaidaili.com:443 "GET /free/inha/1 HTTP/1.1" 200 None
+2020-03-15 10:55:53 connectionpool.py [line:437] DEBUG: https://www.xicidaili.com:443 "GET /nn/1 HTTP/1.1" 200 None
+2020-03-15 10:55:53 connectionpool.py [line:437] DEBUG: http://www.ip3366.net:80 "GET /free/?stype=1&page=1 HTTP/1.1" 200 5292
+2020-03-15 10:55:53 _internal.py [line:122] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-15 10:55:54 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:55:54 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index2.html HTTP/1.1" 200 None
+2020-03-15 10:55:57 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:55:57 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 123.171.5.183:8118
+2020-03-15 10:55:58 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index3.html HTTP/1.1" 200 None
+2020-03-15 10:55:58 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:55:58 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.33.53.216:9999
+2020-03-15 10:55:58 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 116.196.87.86:20183
+2020-03-15 10:55:58 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 27.154.34.146:31527
+2020-03-15 10:56:00 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:00 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index4.html HTTP/1.1" 200 None
+2020-03-15 10:56:01 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:02 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:02 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index5.html HTTP/1.1" 200 None
+2020-03-15 10:56:03 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:03 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.225.186.166:3000
+2020-03-15 10:56:05 connectionpool.py [line:437] DEBUG: http://121.225.186.166:3000 "GET http://httpbin.org/get HTTP/1.1" 200 637
+2020-03-15 10:56:05 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:07 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 560
+2020-03-15 10:56:07 mongo_pool.py [line:41] WARNING: 已经存在的代理{'score': 5, 'disuseble_dommains': [], 'nick_type': 0, 'protocol': 2, 'port': '3000', 'ip': '121.225.186.166', 'speed': 1.59, 'area': '江苏'}
+2020-03-15 10:56:07 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.4.188:3000
+2020-03-15 10:56:07 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:07 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index6.html HTTP/1.1" 200 None
+2020-03-15 10:56:08 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:08 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:12 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:12 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index7.html HTTP/1.1" 200 None
+2020-03-15 10:56:13 mongo_pool.py [line:48] INFO: 更新代理ip：{'speed': -1, 'area': '江苏南京', 'protocol': -1, 'port': '3000', 'disuseble_dommains': [], 'score': 46, 'ip': '121.237.149.156', 'nick_type': -1}
+2020-03-15 10:56:13 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.150:3000
+2020-03-15 10:56:13 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.87.180.144:8118
+2020-03-15 10:56:17 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:17 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:17 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index8.html HTTP/1.1" 200 None
+2020-03-15 10:56:18 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.81.125.186:9000
+2020-03-15 10:56:18 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.194.29.19:9999
+2020-03-15 10:56:21 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:21 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index9.html HTTP/1.1" 200 None
+2020-03-15 10:56:23 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:23 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:23 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:23 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index10.html HTTP/1.1" 200 None
+2020-03-15 10:56:24 mongo_pool.py [line:48] INFO: 更新代理ip：{'speed': -1, 'area': '江苏徐州', 'protocol': -1, 'port': '8118', 'disuseble_dommains': [], 'score': 4, 'ip': '117.87.180.144', 'nick_type': -1}
+2020-03-15 10:56:27 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.177.238:3000
+2020-03-15 10:56:28 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:28 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index11.html HTTP/1.1" 200 None
+2020-03-15 10:56:28 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:28 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:29 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:29 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index12.html HTTP/1.1" 200 None
+2020-03-15 10:56:32 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:32 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index13.html HTTP/1.1" 200 None
+2020-03-15 10:56:33 mongo_pool.py [line:48] INFO: 更新代理ip：{'speed': -1, 'area': '江苏南京', 'protocol': -1, 'port': '3000', 'disuseble_dommains': [], 'score': 46, 'ip': '121.237.149.150', 'nick_type': -1}
+2020-03-15 10:56:33 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 125.108.95.165:9000
+2020-03-15 10:56:33 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.176.234:3000
+2020-03-15 10:56:33 connectionpool.py [line:437] DEBUG: http://117.88.176.234:3000 "GET http://httpbin.org/get HTTP/1.1" 200 683
+2020-03-15 10:56:33 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:35 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:35 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index14.html HTTP/1.1" 200 None
+2020-03-15 10:56:37 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:37 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index15.html HTTP/1.1" 200 None
+2020-03-15 10:56:37 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:38 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 8.209.66.252:8080
+2020-03-15 10:56:38 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 621
+2020-03-15 10:56:38 mongo_pool.py [line:48] INFO: 更新代理ip：{'speed': 0.45, 'area': '江苏南京', 'protocol': 2, 'port': '3000', 'disuseble_dommains': [], 'score': 5, 'ip': '117.88.176.234', 'nick_type': 0}
+2020-03-15 10:56:38 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.195.19.111:9999
+2020-03-15 10:56:39 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 10:56:39 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index16.html HTTP/1.1" 200 None
+2020-03-15 10:56:43 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:47 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.144.8:3000
+2020-03-15 10:56:48 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:48 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:53 mongo_pool.py [line:48] INFO: 更新代理ip：{'speed': -1, 'area': '', 'protocol': -1, 'port': '9000', 'disuseble_dommains': [], 'score': 46, 'ip': '125.108.95.165', 'nick_type': -1}
+2020-03-15 10:56:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 119.147.137.79:8008
+2020-03-15 10:56:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 116.196.87.86:20183
+2020-03-15 10:56:54 connectionpool.py [line:437] DEBUG: http://119.147.137.79:8008 "GET http://httpbin.org/get HTTP/1.1" 200 641
+2020-03-15 10:56:54 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:56 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 546
+2020-03-15 10:56:56 mongo_pool.py [line:48] INFO: 更新代理ip：{'speed': 1.89, 'area': '广东佛山', 'protocol': 2, 'port': '8008', 'disuseble_dommains': [], 'score': 5, 'ip': '119.147.137.79', 'nick_type': 0}
+2020-03-15 10:56:56 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.225.186.166:3000
+2020-03-15 10:56:56 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.195.19.111:9999
+2020-03-15 10:56:57 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:56:58 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.81.125.149:9000
+2020-03-15 10:56:59 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 175.43.57.15:9999
+2020-03-15 10:57:00 connectionpool.py [line:437] DEBUG: http://121.225.186.166:3000 "GET http://httpbin.org/get HTTP/1.1" 200 609
+2020-03-15 10:57:00 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:02 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:06 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:07 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.156:3000
+2020-03-15 10:57:07 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 658
+2020-03-15 10:57:07 mongo_pool.py [line:48] INFO: 更新代理ip：{'speed': 3.98, 'area': '江苏', 'protocol': 2, 'port': '3000', 'disuseble_dommains': [], 'score': 5, 'ip': '121.225.186.166', 'nick_type': 0}
+2020-03-15 10:57:08 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:09 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:12 mongo_pool.py [line:48] INFO: 更新代理ip：{'speed': -1, 'area': '', 'protocol': -1, 'port': '20183', 'disuseble_dommains': [], 'score': 47, 'ip': '116.196.87.86', 'nick_type': -1}
+2020-03-15 10:57:16 mongo_pool.py [line:48] INFO: 更新代理ip：{'speed': -1, 'area': '', 'protocol': -1, 'port': '9999', 'disuseble_dommains': [], 'score': 48, 'ip': '113.195.19.111', 'nick_type': -1}
+2020-03-15 10:57:17 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:18 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.76.54.197:8060
+2020-03-15 10:57:19 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 171.13.202.155:9999
+2020-03-15 10:57:27 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.150:3000
+2020-03-15 10:57:28 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:29 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:32 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\Python\lib\random.py", line 262, in choice
+    i = self._randbelow(len(seq))
+  File "D:\Python\lib\random.py", line 239, in _randbelow
+    r = getrandbits(k)          # 0 <= r < 2**k
+ValueError: number of bits must be greater than zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Python\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Python\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Python\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Python\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Python\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\PycharmProject\IPProxyPool\core\proxy_api.py", line 30, in random
+    proxy = self.mongo_pool.random_proxy(protocol, domain, count=PROXIES_MAX_COUNT)
+  File "D:\PycharmProject\IPProxyPool\core\db\mongo_pool.py", line 108, in random_proxy
+    return random.choice(proxy_list)
+  File "D:\Python\lib\random.py", line 264, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+2020-03-15 10:57:32 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 10:57:32] "[1m[35mGET /random?protocol=http HTTP/1.1[0m" 500 -
+2020-03-15 10:57:32 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 10:57:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-03-15 10:57:37 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:38 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.53.33:9000
+2020-03-15 10:57:39 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 182.35.83.48:9999
+2020-03-15 10:57:47 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.110.184.249:8118
+2020-03-15 10:57:48 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:49 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:57 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:57:58 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 58.21.245.214:8080
+2020-03-15 10:57:59 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.69.12.252:9999
+2020-03-15 10:58:00 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 10:58:00] "[33mGET /random/protocol=https HTTP/1.1[0m" 404 -
+2020-03-15 10:58:07 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.240.164:3000
+2020-03-15 10:58:08 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:58:09 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:58:17 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:58:18 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.24.216:9000
+2020-03-15 10:58:19 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 119.178.223.3:9000
+2020-03-15 10:58:21 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:58:23 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 125.108.84.139:9000
+2020-03-15 10:58:28 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.240.133:3000
+2020-03-15 10:58:29 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:01:48 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.xicidaili.com:80
+2020-03-15 11:01:48 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.ip3366.net:80
+2020-03-15 11:01:48 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.kuaidaili.com:80
+2020-03-15 11:01:48 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:01:48 connectionpool.py [line:437] DEBUG: http://www.kuaidaili.com:80 "GET /free/inha/1 HTTP/1.1" 301 278
+2020-03-15 11:01:48 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): www.kuaidaili.com:443
+2020-03-15 11:01:48 connectionpool.py [line:437] DEBUG: http://www.xicidaili.com:80 "GET /nn/1 HTTP/1.1" 301 185
+2020-03-15 11:01:48 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): www.xicidaili.com:443
+2020-03-15 11:01:48 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index1.html HTTP/1.1" 200 None
+2020-03-15 11:01:48 connectionpool.py [line:437] DEBUG: http://www.ip3366.net:80 "GET /free/?stype=1&page=1 HTTP/1.1" 200 5292
+2020-03-15 11:01:48 connectionpool.py [line:437] DEBUG: https://www.xicidaili.com:443 "GET /nn/1 HTTP/1.1" 200 None
+2020-03-15 11:01:48 connectionpool.py [line:437] DEBUG: https://www.kuaidaili.com:443 "GET /free/inha/1 HTTP/1.1" 200 None
+2020-03-15 11:01:49 _internal.py [line:122] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-15 11:01:51 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:01:51 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 116.196.87.86:20183
+2020-03-15 11:01:51 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index2.html HTTP/1.1" 200 None
+2020-03-15 11:01:52 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.33.53.216:9999
+2020-03-15 11:01:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:01:53 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index3.html HTTP/1.1" 200 None
+2020-03-15 11:01:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 123.171.5.183:8118
+2020-03-15 11:01:54 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:01:54 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:01:55 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:01:55 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index4.html HTTP/1.1" 200 None
+2020-03-15 11:01:57 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.194.29.19:9999
+2020-03-15 11:02:00 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:00 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index5.html HTTP/1.1" 200 None
+2020-03-15 11:02:01 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 27.154.34.146:31527
+2020-03-15 11:02:02 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:02 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index6.html HTTP/1.1" 200 None
+2020-03-15 11:02:02 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:03 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:06 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.225.186.166:3000
+2020-03-15 11:02:06 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:06 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index7.html HTTP/1.1" 200 None
+2020-03-15 11:02:06 connectionpool.py [line:437] DEBUG: http://121.225.186.166:3000 "GET http://httpbin.org/get HTTP/1.1" 200 661
+2020-03-15 11:02:06 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:07 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:11 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:11 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index8.html HTTP/1.1" 200 None
+2020-03-15 11:02:12 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 622
+2020-03-15 11:02:12 mongo_pool.py [line:39] INFO: 插入新的代理：{'nick_type': 0, 'protocol': 2, 'speed': 0.58, 'ip': '121.225.186.166', '_id': '121.225.186.166', 'port': '3000', 'score': 5, 'disuseble_dommains': [], 'area': '江苏'}
+2020-03-15 11:02:12 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.81.125.186:9000
+2020-03-15 11:02:12 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.4.188:3000
+2020-03-15 11:02:15 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:15 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index9.html HTTP/1.1" 200 None
+2020-03-15 11:02:17 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.195.19.111:9999
+2020-03-15 11:02:19 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:19 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index10.html HTTP/1.1" 200 None
+2020-03-15 11:02:21 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:21 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index11.html HTTP/1.1" 200 None
+2020-03-15 11:02:22 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:22 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:25 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:25 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index12.html HTTP/1.1" 200 None
+2020-03-15 11:02:27 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:27 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index13.html HTTP/1.1" 200 None
+2020-03-15 11:02:27 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:30 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:30 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index14.html HTTP/1.1" 200 None
+2020-03-15 11:02:32 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 8.209.66.252:8080
+2020-03-15 11:02:32 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.177.238:3000
+2020-03-15 11:02:34 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:34 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index15.html HTTP/1.1" 200 None
+2020-03-15 11:02:37 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 175.43.57.15:9999
+2020-03-15 11:02:38 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.89ip.cn:80
+2020-03-15 11:02:38 connectionpool.py [line:437] DEBUG: http://www.89ip.cn:80 "GET /index16.html HTTP/1.1" 200 None
+2020-03-15 11:02:42 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:42 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:47 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:02:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.81.125.149:9000
+2020-03-15 11:02:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.144.8:3000
+2020-03-15 11:02:58 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 171.13.202.155:9999
+2020-03-15 11:03:03 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:03 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:08 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:13 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.76.54.197:8060
+2020-03-15 11:03:13 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.156:3000
+2020-03-15 11:03:18 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 182.35.83.48:9999
+2020-03-15 11:03:20 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:22 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.69.12.252:9999
+2020-03-15 11:03:23 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:23 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:32 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:33 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.53.33:9000
+2020-03-15 11:03:33 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.150:3000
+2020-03-15 11:03:42 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 119.178.223.3:9000
+2020-03-15 11:03:43 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:43 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:45 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:47 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 125.108.84.139:9000
+2020-03-15 11:03:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 58.21.245.214:8080
+2020-03-15 11:03:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.110.184.249:8118
+2020-03-15 11:03:55 connectionpool.py [line:437] DEBUG: http://113.110.184.249:8118 "GET http://httpbin.org/get HTTP/1.1" 200 516
+2020-03-15 11:03:55 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:57 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:03:58 mongo_pool.py [line:39] INFO: 插入新的代理：{'nick_type': 0, 'protocol': 0, 'speed': 1.72, 'ip': '113.110.184.249', '_id': '113.110.184.249', 'port': '8118', 'score': 5, 'disuseble_dommains': [], 'area': '广东深圳'}
+2020-03-15 11:03:58 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.240.164:3000
+2020-03-15 11:04:03 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:04:07 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 125.110.107.227:9000
+2020-03-15 11:04:08 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:04:13 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:04:13] "[33mGET /random/protocol=http HTTP/1.1[0m" 404 -
+2020-03-15 11:04:13 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.24.216:9000
+2020-03-15 11:04:17 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:04:18 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.240.133:3000
+2020-03-15 11:04:23 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:04:27 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 163.204.245.104:9999
+2020-03-15 11:04:28 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:04:33 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.53.151:9000
+2020-03-15 11:04:37 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:04:38 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.4.4:3000
+2020-03-15 11:04:42 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:04:42] "[33mGET /random/protocol=http&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:04:43 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:04:45 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:04:45] "[33mGET /random/protocol=http&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:04:45 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:04:45] "[33mGET /random/protocol=http&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:04:47 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 123.169.160.78:9999
+2020-03-15 11:04:48 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:04:50 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:04:50] "[33mGET /random/protocol=https&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:04:53 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:04:53] "[33mGET /random/protocol=https&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:04:53 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 58.22.212.18:9000
+2020-03-15 11:04:57 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:04:58 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.5.129:3000
+2020-03-15 11:05:03 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:07 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 1.198.72.172:9999
+2020-03-15 11:05:08 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:10 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:12 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 183.195.106.118:8118
+2020-03-15 11:05:13 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 60.162.74.244:9000
+2020-03-15 11:05:16 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:05:16] "[33mGET /proxies/protocol=https&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:05:18 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.177.86:3000
+2020-03-15 11:05:21 connectionpool.py [line:437] DEBUG: http://183.195.106.118:8118 "GET http://httpbin.org/get HTTP/1.1" 200 631
+2020-03-15 11:05:21 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:23 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:28 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:31 mongo_pool.py [line:39] INFO: 插入新的代理：{'nick_type': 0, 'protocol': 0, 'speed': 8.94, 'ip': '183.195.106.118', '_id': '183.195.106.118', 'port': '8118', 'score': 5, 'disuseble_dommains': [], 'area': ''}
+2020-03-15 11:05:31 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.121.65.21:9999
+2020-03-15 11:05:31 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:05:31] "[33mGET /proxies/protocol=https&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:05:33 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:33 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.54.154:9000
+2020-03-15 11:05:36 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.kuaidaili.com:80
+2020-03-15 11:05:36 connectionpool.py [line:437] DEBUG: http://www.kuaidaili.com:80 "GET /free/inha/2 HTTP/1.1" 301 278
+2020-03-15 11:05:36 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): www.kuaidaili.com:443
+2020-03-15 11:05:36 connectionpool.py [line:437] DEBUG: https://www.kuaidaili.com:443 "GET /free/inha/2 HTTP/1.1" 200 6404
+2020-03-15 11:05:39 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.144.241:3000
+2020-03-15 11:05:40 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 123.169.165.235:9999
+2020-03-15 11:05:43 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:49 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:50 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:05:52 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:05:52] "[33mGET /proxies/protocol=https&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:05:54 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 58.22.208.236:9000
+2020-03-15 11:05:59 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 180.109.200.30:8118
+2020-03-15 11:06:00 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 182.148.206.57:9999
+2020-03-15 11:06:04 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:06:06 connectionpool.py [line:437] DEBUG: http://180.109.200.30:8118 "GET http://httpbin.org/get HTTP/1.1" 200 635
+2020-03-15 11:06:07 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:06:10 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:06:14 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 58.22.214.124:9000
+2020-03-15 11:06:17 mongo_pool.py [line:39] INFO: 插入新的代理：{'nick_type': 0, 'protocol': 0, 'speed': 8.53, 'ip': '180.109.200.30', '_id': '180.109.200.30', 'port': '8118', 'score': 5, 'disuseble_dommains': [], 'area': '江苏南京'}
+2020-03-15 11:06:17 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.4.185:3000
+2020-03-15 11:06:20 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 110.243.16.115:9999
+2020-03-15 11:06:24 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:06:27 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:06:30 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:06:34 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 58.22.210.203:9000
+2020-03-15 11:06:37 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.144.170:3000
+2020-03-15 11:06:40 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 171.15.49.206:9999
+2020-03-15 11:06:44 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:06:47 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:06:50 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:06:54 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.ip3366.net:80
+2020-03-15 11:06:54 connectionpool.py [line:437] DEBUG: http://www.ip3366.net:80 "GET /free/?stype=1&page=2 HTTP/1.1" 200 5242
+2020-03-15 11:06:56 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 58.22.210.203:9000
+2020-03-15 11:06:58 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.144.229:3000
+2020-03-15 11:07:00 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:00 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.194.31.123:9999
+2020-03-15 11:07:02 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 61.135.155.82:443
+2020-03-15 11:07:06 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:10 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:12 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:16 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.24.190:9000
+2020-03-15 11:07:21 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 1.198.72.177:9999
+2020-03-15 11:07:22 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.5.231:3000
+2020-03-15 11:07:26 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:31 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:32 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:36 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.70.33.178:9999
+2020-03-15 11:07:38 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:41 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.86.183.249:9999
+2020-03-15 11:07:41 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 175.42.122.215:9999
+2020-03-15 11:07:42 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.177.91:3000
+2020-03-15 11:07:43 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:45 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 60.162.70.212:9000
+2020-03-15 11:07:51 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:52 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:07:55 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:01 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.69.12.82:9999
+2020-03-15 11:08:02 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.240.87:3000
+2020-03-15 11:08:05 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.5.99:9000
+2020-03-15 11:08:11 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:12 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:15 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:21 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 61.178.149.237:59042
+2020-03-15 11:08:23 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.87.180.144:8118
+2020-03-15 11:08:25 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.54.232:9000
+2020-03-15 11:08:30 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:31 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:35 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:40 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 101.231.104.82:80
+2020-03-15 11:08:40 connectionpool.py [line:437] DEBUG: http://101.231.104.82:80 "GET http://httpbin.org/get HTTP/1.1" 500 202
+2020-03-15 11:08:40 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:40 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.64.235.117:18118
+2020-03-15 11:08:41 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.195.204.179:9999
+2020-03-15 11:08:46 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.81.125.72:9000
+2020-03-15 11:08:50 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:51 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:08:56 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:09:00 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.240.40:3000
+2020-03-15 11:09:01 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 115.218.209.69:9000
+2020-03-15 11:09:06 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 61.130.231.59:9002
+2020-03-15 11:09:10 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:09:11 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:09:16 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:09:20 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.5.109:3000
+2020-03-15 11:09:21 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 171.15.66.35:9999
+2020-03-15 11:09:26 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.5.202:9000
+2020-03-15 11:09:30 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:09:31 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:09:36 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:09:41 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.5.77:3000
+2020-03-15 11:09:41 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 125.108.95.165:9000
+2020-03-15 11:09:46 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.25.106:9000
+2020-03-15 11:09:51 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:09:51 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:09:56 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:01 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.177.207:3000
+2020-03-15 11:10:02 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.195.17.21:9999
+2020-03-15 11:10:06 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.81.125.71:9000
+2020-03-15 11:10:11 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:12 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:16 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:21 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.4.197:3000
+2020-03-15 11:10:22 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 47.94.136.5:8118
+2020-03-15 11:10:22 connectionpool.py [line:437] DEBUG: http://47.94.136.5:8118 "GET http://httpbin.org/get HTTP/1.1" 503 None
+2020-03-15 11:10:22 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:22 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.kuaidaili.com:80
+2020-03-15 11:10:22 connectionpool.py [line:437] DEBUG: http://www.kuaidaili.com:80 "GET /free/inha/3 HTTP/1.1" 301 278
+2020-03-15 11:10:22 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): www.kuaidaili.com:443
+2020-03-15 11:10:22 connectionpool.py [line:437] DEBUG: https://www.kuaidaili.com:443 "GET /free/inha/3 HTTP/1.1" 200 None
+2020-03-15 11:10:26 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.81.125.220:9000
+2020-03-15 11:10:27 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.232.194.241:9000
+2020-03-15 11:10:29 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:31 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:31 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 115.195.84.31:8118
+2020-03-15 11:10:32 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:33 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 114.239.173.62:9999
+2020-03-15 11:10:36 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:41 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.40.66.129:808
+2020-03-15 11:10:43 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:10:45 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 60.162.67.6:9000
+2020-03-15 11:10:50 connectionpool.py [line:437] DEBUG: http://121.40.66.129:808 "GET http://httpbin.org/get HTTP/1.1" 200 633
+2020-03-15 11:10:52 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 163.204.246.198:9999
+2020-03-15 11:10:55 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:00 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:02 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:05 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 49.86.177.86:9999
+2020-03-15 11:11:11 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 122.230.144.181:8118
+2020-03-15 11:11:12 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.195.170.77:9999
+2020-03-15 11:11:15 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:18 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:22 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:25 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): www.ip3366.net:80
+2020-03-15 11:11:25 connectionpool.py [line:437] DEBUG: http://www.ip3366.net:80 "GET /free/?stype=1&page=3 HTTP/1.1" 200 5226
+2020-03-15 11:11:28 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 222.95.144.165:3000
+2020-03-15 11:11:29 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 59.62.5.35:9000
+2020-03-15 11:11:31 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:32 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.90.137.197:9000
+2020-03-15 11:11:34 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.177.186:3000
+2020-03-15 11:11:34 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:36 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:36 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 123.169.160.30:9999
+2020-03-15 11:11:39 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.4.103:3000
+2020-03-15 11:11:39 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:46 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:49 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:11:50 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 58.253.157.58:9999
+2020-03-15 11:11:53 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:11:53] "[33mGET /proxies/protocol=https&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:11:56 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 182.32.163.106:9999
+2020-03-15 11:11:59 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.5.253:3000
+2020-03-15 11:12:00 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:12:01 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:12:01] "[33mGET /random/protocol=https&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:12:06 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:12:07 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:12:07] "[33mGET /random/protocol=http&domain=jd.com HTTP/1.1[0m" 404 -
+2020-03-15 11:12:09 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 11:12:10 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 58.253.155.213:9999
+2020-03-15 11:12:14 app.py [line:1891] ERROR: Exception on /random [GET]
+Traceback (most recent call last):
+  File "D:\Python\lib\random.py", line 262, in choice
+    i = self._randbelow(len(seq))
+  File "D:\Python\lib\random.py", line 239, in _randbelow
+    r = getrandbits(k)          # 0 <= r < 2**k
+ValueError: number of bits must be greater than zero
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Python\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "D:\Python\lib\site-packages\flask\app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "D:\Python\lib\site-packages\flask\app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "D:\Python\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "D:\Python\lib\site-packages\flask\app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "D:\Python\lib\site-packages\flask\app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\PycharmProject\IPProxyPool\core\proxy_api.py", line 30, in random
+    proxy = self.mongo_pool.random_proxy(protocol, domain, count=PROXIES_MAX_COUNT)
+  File "D:\PycharmProject\IPProxyPool\core\db\mongo_pool.py", line 108, in random_proxy
+    return random.choice(proxy_list)
+  File "D:\Python\lib\random.py", line 264, in choice
+    raise IndexError('Cannot choose from an empty sequence')
+IndexError: Cannot choose from an empty sequence
+2020-03-15 11:12:14 _internal.py [line:122] INFO: 127.0.0.1 - - [15/Mar/2020 11:12:14] "[1m[35mGET /random HTTP/1.1[0m" 500 -
+2020-03-15 11:12:16 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 175.42.123.106:9999
+2020-03-15 11:12:19 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.176.241:3000
+2020-03-15 11:12:20 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443

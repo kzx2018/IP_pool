@@ -1,0 +1,6 @@
+2020-03-14 15:30:17 mongo_pool.py [line:39] INFO: 插入新的代理：{'nick_type': -1, '_id': '171.221.79.223', 'disuseble_dommains': [], 'area': None, 'protocol': -1, 'port': '8118', 'score': 50, 'speed': -1, 'ip': '171.221.79.223'}
+2020-03-14 15:32:13 mongo_pool.py [line:41] WARNING: 已经存在的代理{'disuseble_dommains': [], 'protocol': -1, 'nick_type': -1, 'ip': '171.221.79.223', 'area': None, 'score': 50, 'speed': -1, 'port': '8118'}
+2020-03-14 15:35:50 mongo_pool.py [line:41] WARNING: 已经存在的代理{'score': 50, 'area': None, 'nick_type': -1, 'port': '8118', 'disuseble_dommains': [], 'speed': -1, 'protocol': -1, 'ip': '171.221.79.223'}
+2020-03-14 15:35:50 mongo_pool.py [line:48] INFO: 更新代理ip：{'score': 50, 'area': None, 'nick_type': -1, 'port': '8888', 'disuseble_dommains': [], 'speed': -1, 'protocol': -1, 'ip': '171.221.79.223'}
+2020-03-14 15:40:06 mongo_pool.py [line:55] INFO: 删除代理ip:{'ip': '171.221.79.223', 'disuseble_dommains': [], 'speed': -1, 'port': '8888', 'score': 50, 'area': None, 'nick_type': -1, 'protocol': -1}
+2020-03-14 15:50:54 mongo_pool.py [line:39] INFO: 插入新的代理：{'area': None, 'speed': -1, 'score': 50, 'port': '8118', 'disuseble_dommains': [], '_id': '171.221.79.223', 'ip': '171.221.79.223', 'protocol': -1, 'nick_type': -1}

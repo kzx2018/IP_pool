@@ -1,0 +1,85 @@
+2020-03-15 10:23:40 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.156:3000
+2020-03-15 10:23:42 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:23:45 mongo_pool.py [line:48] INFO: 更新代理ip：{'area': '江苏南京', 'ip': '121.237.149.156', 'protocol': -1, 'speed': -1, 'port': '3000', 'disuseble_dommains': [], 'score': 49, 'nick_type': -1}
+2020-03-15 10:23:45 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.150:3000
+2020-03-15 10:23:45 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.87.180.144:8118
+2020-03-15 10:23:52 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:23:55 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:23:55 mongo_pool.py [line:48] INFO: 更新代理ip：{'area': '江苏徐州', 'ip': '117.87.180.144', 'protocol': -1, 'speed': -1, 'port': '8118', 'disuseble_dommains': [], 'score': 49, 'nick_type': -1}
+2020-03-15 10:24:05 mongo_pool.py [line:48] INFO: 更新代理ip：{'area': '江苏南京', 'ip': '121.237.149.150', 'protocol': -1, 'speed': -1, 'port': '3000', 'disuseble_dommains': [], 'score': 49, 'nick_type': -1}
+2020-03-15 10:24:05 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 125.108.95.165:9000
+2020-03-15 10:24:05 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.176.234:3000
+2020-03-15 10:24:08 connectionpool.py [line:437] DEBUG: http://117.88.176.234:3000 "GET http://httpbin.org/get HTTP/1.1" 200 670
+2020-03-15 10:24:08 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:24:15 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:24:25 mongo_pool.py [line:48] INFO: 更新代理ip：{'area': '', 'ip': '125.108.95.165', 'protocol': -1, 'speed': -1, 'port': '9000', 'disuseble_dommains': [], 'score': 49, 'nick_type': -1}
+2020-03-15 10:24:25 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 119.147.137.79:8008
+2020-03-15 10:24:25 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 116.196.87.86:20183
+2020-03-15 10:24:25 connectionpool.py [line:437] DEBUG: http://119.147.137.79:8008 "GET http://httpbin.org/get HTTP/1.1" 200 620
+2020-03-15 10:24:25 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:24:27 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 621
+2020-03-15 10:25:23 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.156:3000
+2020-03-15 10:25:25 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:25:28 mongo_pool.py [line:48] INFO: 更新代理ip：{'nick_type': -1, 'ip': '121.237.149.156', 'area': '江苏南京', 'port': '3000', 'protocol': -1, 'score': 48, 'speed': -1, 'disuseble_dommains': []}
+2020-03-15 10:25:28 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.150:3000
+2020-03-15 10:25:28 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.87.180.144:8118
+2020-03-15 10:25:28 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:25:28 mongo_pool.py [line:48] INFO: 更新代理ip：{'nick_type': -1, 'ip': '117.87.180.144', 'area': '江苏徐州', 'port': '8118', 'protocol': -1, 'score': 48, 'speed': -1, 'disuseble_dommains': []}
+2020-03-15 10:25:38 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:25:48 mongo_pool.py [line:48] INFO: 更新代理ip：{'nick_type': -1, 'ip': '121.237.149.150', 'area': '江苏南京', 'port': '3000', 'protocol': -1, 'score': 48, 'speed': -1, 'disuseble_dommains': []}
+2020-03-15 10:25:48 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 125.108.95.165:9000
+2020-03-15 10:25:48 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.176.234:3000
+2020-03-15 10:25:50 connectionpool.py [line:437] DEBUG: http://117.88.176.234:3000 "GET http://httpbin.org/get HTTP/1.1" 200 566
+2020-03-15 10:25:50 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:25:54 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 559
+2020-03-15 10:25:54 mongo_pool.py [line:48] INFO: 更新代理ip：{'nick_type': 0, 'ip': '117.88.176.234', 'area': '江苏南京', 'port': '3000', 'protocol': 2, 'score': 50, 'speed': 2.17, 'disuseble_dommains': []}
+2020-03-15 10:25:58 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:26:08 mongo_pool.py [line:48] INFO: 更新代理ip：{'nick_type': -1, 'ip': '125.108.95.165', 'area': '', 'port': '9000', 'protocol': -1, 'score': 48, 'speed': -1, 'disuseble_dommains': []}
+2020-03-15 10:26:08 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 119.147.137.79:8008
+2020-03-15 10:26:08 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 116.196.87.86:20183
+2020-03-15 10:26:11 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:26:14 mongo_pool.py [line:48] INFO: 更新代理ip：{'nick_type': -1, 'ip': '116.196.87.86', 'area': '', 'port': '20183', 'protocol': -1, 'score': 49, 'speed': -1, 'disuseble_dommains': []}
+2020-03-15 10:26:18 connectionpool.py [line:437] DEBUG: http://119.147.137.79:8008 "GET http://httpbin.org/get HTTP/1.1" 200 558
+2020-03-15 10:26:18 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:26:27 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 597
+2020-03-15 10:26:27 mongo_pool.py [line:48] INFO: 更新代理ip：{'nick_type': 0, 'ip': '119.147.137.79', 'area': '广东佛山', 'port': '8008', 'protocol': 2, 'score': 50, 'speed': 9.6, 'disuseble_dommains': []}
+2020-03-15 10:44:43 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.156:3000
+2020-03-15 10:44:53 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:45:03 mongo_pool.py [line:48] INFO: 更新代理ip：{'port': '3000', 'nick_type': -1, 'ip': '121.237.149.156', 'score': 47, 'speed': -1, 'protocol': -1, 'disuseble_dommains': [], 'area': '江苏南京'}
+2020-03-15 10:45:03 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.237.149.150:3000
+2020-03-15 10:45:03 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.87.180.144:8118
+2020-03-15 10:45:04 connectionpool.py [line:437] DEBUG: http://117.87.180.144:8118 "GET http://httpbin.org/get HTTP/1.1" 200 545
+2020-03-15 10:45:04 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:45:05 mongo_pool.py [line:48] INFO: 更新代理ip：{'port': '8118', 'nick_type': 0, 'ip': '117.87.180.144', 'score': 5, 'speed': 0.7, 'protocol': 0, 'disuseble_dommains': [], 'area': '江苏徐州'}
+2020-03-15 10:45:13 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:45:23 mongo_pool.py [line:48] INFO: 更新代理ip：{'port': '3000', 'nick_type': -1, 'ip': '121.237.149.150', 'score': 47, 'speed': -1, 'protocol': -1, 'disuseble_dommains': [], 'area': '江苏南京'}
+2020-03-15 10:45:23 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 125.108.95.165:9000
+2020-03-15 10:45:23 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 117.88.176.234:3000
+2020-03-15 10:45:24 connectionpool.py [line:437] DEBUG: http://117.88.176.234:3000 "GET http://httpbin.org/get HTTP/1.1" 200 661
+2020-03-15 10:45:27 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:45:33 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:45:37 mongo_pool.py [line:48] INFO: 更新代理ip：{'port': '3000', 'nick_type': 0, 'ip': '117.88.176.234', 'score': 5, 'speed': 4.1, 'protocol': 0, 'disuseble_dommains': [], 'area': '江苏南京'}
+2020-03-15 10:45:43 mongo_pool.py [line:48] INFO: 更新代理ip：{'port': '9000', 'nick_type': -1, 'ip': '125.108.95.165', 'score': 47, 'speed': -1, 'protocol': -1, 'disuseble_dommains': [], 'area': ''}
+2020-03-15 10:45:43 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 119.147.137.79:8008
+2020-03-15 10:45:43 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 116.196.87.86:20183
+2020-03-15 10:45:53 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:45:53 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:45:55 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 516
+2020-03-15 10:45:55 mongo_pool.py [line:48] INFO: 更新代理ip：{'port': '8008', 'nick_type': 0, 'ip': '119.147.137.79', 'score': 5, 'speed': 1.82, 'protocol': 1, 'disuseble_dommains': [], 'area': '广东佛山'}
+2020-03-15 10:45:55 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 121.225.186.166:3000
+2020-03-15 10:45:55 connectionpool.py [line:225] DEBUG: Starting new HTTP connection (1): 113.195.19.111:9999
+2020-03-15 10:45:56 mongo_pool.py [line:48] INFO: 更新代理ip：{'port': '20183', 'nick_type': -1, 'ip': '116.196.87.86', 'score': 48, 'speed': -1, 'protocol': -1, 'disuseble_dommains': [], 'area': ''}
+2020-03-15 10:45:57 connectionpool.py [line:437] DEBUG: http://121.225.186.166:3000 "GET http://httpbin.org/get HTTP/1.1" 200 694
+2020-03-15 10:45:57 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:46:02 connectionpool.py [line:437] DEBUG: https://httpbin.org:443 "GET /get HTTP/1.1" 200 560
+2020-03-15 10:46:02 mongo_pool.py [line:48] INFO: 更新代理ip：{'port': '3000', 'nick_type': 0, 'ip': '121.225.186.166', 'score': 5, 'speed': 1.99, 'protocol': 2, 'disuseble_dommains': [], 'area': '江苏'}
+2020-03-15 10:46:05 connectionpool.py [line:959] DEBUG: Starting new HTTPS connection (1): httpbin.org:443
+2020-03-15 10:46:15 mongo_pool.py [line:48] INFO: 更新代理ip：{'port': '9999', 'nick_type': -1, 'ip': '113.195.19.111', 'score': 49, 'speed': -1, 'protocol': -1, 'disuseble_dommains': [], 'area': ''}
+2020-03-15 10:46:36 _internal.py [line:122] INFO:  * Restarting with stat
+2020-03-15 10:46:37 _internal.py [line:122] WARNING:  * Debugger is active!
+2020-03-15 10:46:37 _internal.py [line:122] INFO:  * Debugger PIN: 849-267-060
+2020-03-15 10:46:38 _internal.py [line:122] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
+2020-03-15 10:48:10 _internal.py [line:122] INFO:  * Restarting with stat
+2020-03-15 10:48:11 _internal.py [line:122] WARNING:  * Debugger is active!
+2020-03-15 10:48:11 _internal.py [line:122] INFO:  * Debugger PIN: 849-267-060
+2020-03-15 10:48:12 _internal.py [line:122] INFO:  * Running on http://0.0.0.0:16888/ (Press CTRL+C to quit)
